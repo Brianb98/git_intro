@@ -1,1 +1,2 @@
-"Brian Bui" 
+Brian Bui
+buibria@oregonstate.edu
